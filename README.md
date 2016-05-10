@@ -1,3 +1,6 @@
+# RETARD
+![RETARD](fr.jpg "RETARD")
+
 ## Synopsis
 
 This is the repository for a academic project created by [Robin H. van der Weide](https://robinweide.github.io/): **Re**pea**t**-**A**ssesment of **R**ibosomal **D**NA (**RETARD**). Here you will find all the code to prepare, run and analyse the results of RETARD.
