@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is the repository for a academic project created by [Robin H. van der Weide](https://robinweide.github.io/): __Re__pea__t__-__A__ssesment of __R__ibosomal __D__NA (__RETARD__). Here you will find all the code to prepare, run and analyse the results of RETARD.
+This is the repository for a academic project created by [Robin H. van der Weide](https://robinweide.github.io/): **Re**pea**t**-**A**ssesment of **R**ibosomal **D**NA (**RETARD**). Here you will find all the code to prepare, run and analyse the results of RETARD.
 
 ## Contributors
 
