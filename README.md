@@ -1,4 +1,4 @@
-# RETARD
+# **Re**pea**t**-**A**ssesment of **R**ibosomal **D**NA (**RETARD**)
 ![RETARD](fr.jpg "RETARD")
 
 ## Synopsis
